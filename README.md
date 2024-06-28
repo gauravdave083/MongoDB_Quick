@@ -57,7 +57,7 @@ BSON is a binary-encoded format, whereas JSON is a text-based format. This means
 <br>
 
 # JSON VS BSON
-
+They are close cousins😂. 
 ![](assets/images/BSONvsXML.png)
 
 <br>
