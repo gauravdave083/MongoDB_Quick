@@ -36,6 +36,8 @@ Steps:
 Or
 
 ```pip install -r requirements.txt```
+<br>
+<br>
 
 ## What is JSON ?
 
@@ -45,9 +47,11 @@ JSON was originally derived from a subset of the JavaScript programming language
 
 Because JSON is lightweight, it is efficient to transmit over a network, which is important for web-based applications that need to transfer data quickly. JSON’s user-friendly format allows it to be easily understood and edited by developers and non-developers alike. And because it’s easy for machines to parse and generate, JSON can be easily integrated into a wide range of programming languages and platforms, making it a versatile and widely adopted format for exchanging data.
 
+<br>
 ## WHat is BSON ?
 
 
 BSON is a binary-encoded format, whereas JSON is a text-based format. This means that BSON is compact for transmitting over a network, while JSON is human-readable and easier to work with in various contexts. 
 
+<br>
 ![](assets/images/BSONvsXML.png)
