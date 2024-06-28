@@ -74,6 +74,8 @@ They are close cousins😂.
 **Documents** : Mongo stores data in form of documents (BSON docs).
 **Collection** : Multiple documents form one collection.
 
+</br>
+
 
 ### Lets dive into the data
 
