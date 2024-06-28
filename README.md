@@ -20,7 +20,11 @@ This Readme demonstrates the use of MongoDB, a NoSQL database, for efficient dat
 - Backup and restore procedures
 - Security configurations and best practices
 
-Installation
+</br>
+
+#Installation
+
+<br>
 
 Prerequisites
 
@@ -83,6 +87,9 @@ They are close cousins😂.
 
 MongoDB   "_**use DATABASE_NAME**_"   is used to create database. The command will create a new database if it doesn't exist, otherwise it will return the existing database.
 
+Basic syntax of use DATABASE statement is as follows −
+
+** use DATABASE_NAME **
 
 
 
