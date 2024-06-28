@@ -89,7 +89,7 @@ MongoDB   "_**use DATABASE_NAME**_"   is used to create database. The command wi
 
 Basic syntax of use DATABASE statement is as follows −
 
-**use DATABASE_NAME**
+```use DATABASE_NAME```
 
 
 
