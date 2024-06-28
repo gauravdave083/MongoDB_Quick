@@ -81,7 +81,7 @@ They are close cousins😂.
 
 ## MongoDB - Create Database
 
-MongoDB **use DATABASE_NAME** is used to create database. The command will create a new database if it doesn't exist, otherwise it will return the existing database.
+MongoDB   "_**use DATABASE_NAME**_"   is used to create database. The command will create a new database if it doesn't exist, otherwise it will return the existing database.
 
 
 
