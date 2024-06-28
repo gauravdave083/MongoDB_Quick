@@ -23,8 +23,8 @@ Steps:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/mongodb-project.git
+```git clone https://github.com/yourusername/mongodb-project.git```
 
 2. Navigate to the project directory:
 
-cd mongodb-project
+```cd mongodb-project```
