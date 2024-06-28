@@ -1,5 +1,14 @@
 # MongoDB_Quick
-This project demonstrates the use of MongoDB, a NoSQL database, for efficient data storage and retrieval. It includes examples of connecting to MongoDB, performing CRUD (Create, Read, Update, Delete) operations, and implementing best practices for database design and performance optimization.
+
+MongoDB is a cross-platform, document oriented database that provides, high performance, high availability, and easy scalability. MongoDB works on concept of collection and document.
+
+**Database** is a physical container for collections. Each database gets its own set of files on the file system. A single MongoDB server typically has multiple databases.
+
+**Collection** is a group of MongoDB documents. It is the equivalent of an RDBMS table. A collection exists within a single database. Collections do not enforce a schema. Documents within a collection can have different fields. Typically, all documents in a collection are of similar or related purpose.
+
+!()
+
+This Readme demonstrates the use of MongoDB, a NoSQL database, for efficient data storage and retrieval. It includes examples of connecting to MongoDB, performing CRUD (Create, Read, Update, Delete) operations, and implementing best practices for database design and performance optimization.
 
 #Features 
 
@@ -60,6 +69,18 @@ BSON is a binary-encoded format, whereas JSON is a text-based format. This means
 They are close cousins😂. 
 ![](assets/images/BSONvsXML.png)
 
-<br>
+**Data will look like JSON only when you will give it to MongoDB. MongoDB will convert it to BSON by itself.**
+
+**Documents** : Mongo stores data in form of documents (BSON docs).
+**Collection** : Multiple documents form one collection.
+
+
+### Lets dive into the data
+
+## MongoDB - Create Database
+
+MongoDB **use DATABASE_NAME** is used to create database. The command will create a new database if it doesn't exist, otherwise it will return the existing database.
+
+
 
 
