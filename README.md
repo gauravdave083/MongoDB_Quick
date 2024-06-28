@@ -10,7 +10,7 @@ MongoDB is a cross-platform, document oriented database that provides, high perf
 
 This Readme demonstrates the use of MongoDB, a NoSQL database, for efficient data storage and retrieval. It includes examples of connecting to MongoDB, performing CRUD (Create, Read, Update, Delete) operations, and implementing best practices for database design and performance optimization.
 
-#Features 
+# Features 
 
 - Connection to MongoDB using different drivers (e.g., Node.js, Python, etc.)
 - CRUD operations examples
@@ -22,11 +22,11 @@ This Readme demonstrates the use of MongoDB, a NoSQL database, for efficient dat
 
 </br>
 
-#Installation
+# Installation
 
 <br>
 
-Prerequisites
+## Prerequisites
 
 - MongoDB installed (version X.X.X or later)
 - Node.js, Python, or another programming language environment (depending on your examples)
@@ -89,7 +89,7 @@ MongoDB   "_**use DATABASE_NAME**_"   is used to create database. The command wi
 
 Basic syntax of use DATABASE statement is as follows −
 
-** use DATABASE_NAME **
+**use DATABASE_NAME**
 
 
 
