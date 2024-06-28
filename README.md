@@ -6,7 +6,7 @@ MongoDB is a cross-platform, document oriented database that provides, high perf
 
 **Collection** is a group of MongoDB documents. It is the equivalent of an RDBMS table. A collection exists within a single database. Collections do not enforce a schema. Documents within a collection can have different fields. Typically, all documents in a collection are of similar or related purpose.
 
-!()
+![](assets/images/Mongo.png)
 
 This Readme demonstrates the use of MongoDB, a NoSQL database, for efficient data storage and retrieval. It includes examples of connecting to MongoDB, performing CRUD (Create, Read, Update, Delete) operations, and implementing best practices for database design and performance optimization.
 
