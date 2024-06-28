@@ -28,3 +28,11 @@ Steps:
 2. Navigate to the project directory:
 
 ```cd mongodb-project```
+
+3. Install dependencies (if any):
+
+``` npm install ```
+
+Or
+
+```pip install -r requirements.txt```
