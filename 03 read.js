@@ -1,0 +1,1 @@
+db.inventory.find() // Fetch all docs
